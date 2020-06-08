@@ -1,2 +1,2 @@
-# lab-repasando-dart
+# lab-dart-basics 
 Learning Dart to use Flutter SDK ;)
